@@ -3,6 +3,22 @@ body {
     margin: 0;
 }
  
+header {
+    height: 50px;
+    background-color: #8B625F;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 16px;
+    color: #ffffff;
+    font-family: "Playfair Display", serif;
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    line-height: 50px;
+    max-width: 1500px;
+}
+
 header p {
     margin: 0;
 
