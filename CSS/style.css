@@ -267,8 +267,11 @@ section.card p {
 
 .testofinale p {
     color: #ffffff;
-    font-size: 20px;
-    text-align: center;
+    font-size: 15px;
+    padding: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: "Libre Franklin", sans-serif;
 }
 
 .testofinale h1 {
